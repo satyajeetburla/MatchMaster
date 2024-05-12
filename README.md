@@ -20,12 +20,16 @@ Here's a sample frame taken from one of the processed videos, demonstrating how 
    ```bash
    conda create -n tennis_analysis python=3.8
    ```
+   
 2. **Activate the Environment:**
+   
   Once created, activate your new environment using:
   ```bash
   conda activate tennis_analysis
   ```
+
 3. **Install Dependencies:**
+   
   install the required packages using the requirements.txt file:
   ```bash
   pip install -r requirements.txt
