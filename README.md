@@ -7,10 +7,9 @@ This project aims to develop an AI system with YOLO for player and ball detectio
 Here's a sample frame taken from one of the processed videos, demonstrating how the analysis functions:
 
 
-
-% ### Pre-Trained Models
-% - **Player Detection Model:** 
-% - **Court Key Point Model:**
+### Pre-Trained Models
+- **Player Detection Model:**
+- **Court Key Point Model:**
 
 
 
@@ -34,3 +33,10 @@ Here's a sample frame taken from one of the processed videos, demonstrating how 
      ```bash
      pip install -r requirements.txt
      ```
+
+### Run
+
+Place your video in the input video folder and run the following command:
+```bash
+python main.py
+```
