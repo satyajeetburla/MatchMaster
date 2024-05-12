@@ -8,9 +8,9 @@ Here's a sample frame taken from one of the processed videos, demonstrating how 
 
 
 
-### Pre-Trained Models
-- **Player Detection Model:** 
-- **Court Key Point Model:**
+%### Pre-Trained Models
+%- **Player Detection Model:** 
+%- **Court Key Point Model:**
 
 
 
